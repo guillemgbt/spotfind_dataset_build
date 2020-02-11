@@ -290,3 +290,4 @@ dmypy.json
 # End of https://www.gitignore.io/api/macos,python,images,pycharm
 
 ./DroneCapture/Takes/
+.idea/
