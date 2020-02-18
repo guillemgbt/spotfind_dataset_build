@@ -292,4 +292,4 @@ dmypy.json
 ./DroneCapture/Takes/
 .idea/
 labelImg/
-
+ImageClassification/IsLotDataset/images/
