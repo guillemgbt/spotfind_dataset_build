@@ -291,3 +291,5 @@ dmypy.json
 
 ./DroneCapture/Takes/
 .idea/
+labelImg/
+
