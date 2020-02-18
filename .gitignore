@@ -293,3 +293,6 @@ dmypy.json
 .idea/
 labelImg/
 ImageClassification/IsLotDataset/images/
+ObjectDetection/pklot-dataset-modified/test/
+ObjectDetection/pklot-dataset-modified/training/
+
